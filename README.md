@@ -48,3 +48,4 @@ Como Executar o Projeto
 1. Clone o repositório:
    ```bash
    git clone https://github.com/gs1gio/FuelSaverGigi.git
+<img width="264" height="559" alt="image" src="https://github.com/user-attachments/assets/eb9153a1-4b75-40b9-ac26-8893ef9d4539" />
